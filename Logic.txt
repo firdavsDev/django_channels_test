@@ -1,0 +1,7 @@
+chat -> message -> send message -> send to all -> send
+Room 1
+
+localhost:3000/chat/<room_uuid>/
+
+
+# websocket router for connecting to a room
